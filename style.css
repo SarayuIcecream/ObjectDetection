@@ -1,0 +1,22 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+canvas
+{
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px aquamarine;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
